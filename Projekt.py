@@ -1,11 +1,8 @@
 # #!/usr/bin/env python
-# noinspection PyUnresolvedReferences
 import glob
 import vtkmodules.vtkInteractionStyle
 import os
-# noinspection PyUnresolvedReferences
 import vtkmodules.vtkRenderingOpenGL2
-# from vtk.util.colors import tomato
 from vtkmodules.vtkCommonColor import vtkNamedColors
 from vtkmodules.vtkIOXML import vtkXMLPolyDataReader
 from vtkmodules.vtkRenderingCore import (
